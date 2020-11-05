@@ -1,7 +1,8 @@
 body{
     animation: 20000ms ease-in-out infinite color-change;
-    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto', sans-serif;
     letter-spacing: -1px;
+    overflow-x: hidden;
 }
   
 @keyframes color-change{
@@ -18,10 +19,72 @@ body{
 }
 
 .khulta{
+    border: 0px !important;
     outline: none !important;
+    transform: rotate(360deg);
+    transition: transform 0.5s;
+}
+.khulta:active{
+    transform: rotate(180deg);
+    transition:  0s;
 }
 
 .badges{
     display: flex;
-    justify-content: space-around;
+    margin: auto;
+    justify-content: center;
 }
+
+.imager{
+    border-radius: 5px;
+    background-color: #fff;
+}
+
+img{
+    width: 75%;
+    height: auto;
+}
+
+
+
+
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    backdrop-filter: saturate(0%) blur(5px);
+    /*backdrop-filter: saturate(180%) blur(5px);*/
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #000000;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+  }
