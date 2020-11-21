@@ -13,7 +13,9 @@ body{
 }
 
 .topbar{
-    background-color: rgba(0, 0, 0, 0.3);
+    background-color: rgba(0, 0, 0, 0.4);
+    position: fixed;
+    z-index: 100;
 }
 
 .khulta{
@@ -28,9 +30,7 @@ body{
 }
 
 .badges{
-    display: flex;
-    margin: auto;
-    justify-content: center;
+    margin-top: 100px;
 }
 
 .imager{
@@ -53,7 +53,7 @@ img{
     height: 100%;
     width: 0;
     position: fixed;
-    z-index: 1;
+    z-index: 101;
     top: 0;
     left: 0;
     backdrop-filter: saturate(0%) blur(5px);
@@ -61,7 +61,7 @@ img{
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-  }
+}
   
   .sidenav a {
     padding: 8px 8px 8px 32px;
@@ -70,11 +70,11 @@ img{
     color: #000000;
     display: block;
     transition: 0.3s;
-  }
+}
   
   .sidenav a:hover {
     color: #f1f1f1;
-  }
+}
   
   .sidenav .closebtn {
     position: absolute;
@@ -82,9 +82,24 @@ img{
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
-  }
+}
   
   @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
-  }
+}
+
+.tabcontent{
+    display: none;
+}
+
+.LI-simple-link{
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    letter-spacing: 2px;
+    text-decoration: none !important;
+    font-weight: 600;
+}
+.LI-simple-link:hover{
+    color: black;
+}
