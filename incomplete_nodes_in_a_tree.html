@@ -56,8 +56,8 @@
             <img alt="image" class="img-fluid" src="https://i.pinimg.com/750x/ca/eb/0b/caeb0b44b74360d386297b05febb219d.jpg">
             </div>
             <div class="col-12 col-md-6 col-lg-5 ml-md-auto text-left">
-            <h2>Density of a Binary Tree</h2>
-            <p class="lead">Density of a Binary Tree is defined as the ratio of Size to the Height of a Tree. Size is where the number of nodes and Height is the no. of levels of a tree.<br><br>Size can be found out by incrementing a variable at every recursion and height can be found out adding the height of larger subtree(again in a recursive function) to 1.</p>
+            <h2>Incomplete Nodes of a Binary Tree</h2>
+            <p class="lead">Nodes that remove the completeness of a tree, i.e. nodes that just have a left node or a right node but not both.</p>
             <!--p><a class="btn btn-dark mt-4" href="">Download</a></p-->
             </div>
         </div>
@@ -73,15 +73,10 @@
         <div class="row justify-content-safe">
         <div class="col col-sm-10 col-md-8 text-left">
             <p>
-                1.Start from the head.<br>
-                2.Use the larger height-height of left tree or right one.<br>
-                &ensp;&ensp;2.1.Taking it for a three-node-tree, do 1+max(height of left tree i.e. 1, height of right tree i.e. 1)<br>
-                &ensp;&ensp;2.2.Now this tree has a height of 1+1=2, this 2 will be examined by its parent node.<br>
-                3.Recursively call above function.<br>
-                4.Start from the root again in a new function, size.<br>
-                5.Do normal traversing(consecutive left and right recursive traverse).<br>
-                6.Use a variable(initially 0). Increment it at every traversal.<br>
-                7.When all nodes are traversed, this variable is your size.<br>
+                1. Create a function that is to be called recursively.<br>
+                2. Check if the current node has a left node but not a right node. Vice versa.<br>
+                3. Call this function for left node.<br>
+                4. Do the above step for right node as well.
             </p>
         </div>
         </div>
@@ -187,7 +182,7 @@
         <div id="pypy" class="container tabcontent">
             <div class="row">
             <div class="col-lg-8">
-            <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fh1m4n3hu%2Fforest%2Fblob%2Fmain%2Fdensity.py&style=atom-one-dark-reasonable&showBorder=on&showFileMeta=on"></script>
+            <script src="https://emgithub.com/embed.js?target=https%3A%2F%2Fgithub.com%2Fh1m4n3hu%2Fforest%2Fblob%2Fmain%2Fun-full_nodes.py&style=tomorrow-night-eighties&showBorder=on&showFileMeta=on"></script>
             </div>
             <div class="col-lg-3 py-4">
             <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="h1m4n3hu"><a class="LI-simple-link" href='https://in.linkedin.com/in/h1m4n3hu?trk=profile-badge'>Himanshu Soni</a></div>
@@ -251,22 +246,22 @@
         <div class="row text-left">
         <div class="col-12 col-md-8 m-auto col-lg-4">
             <div class="fdb-box dabba">
-            <h3>Height of a tree</h3>
-            <p>Count the number of levels of a tree with the help of recursion.</p>
+            <h3>Leaf nodes of a Binary Tree</h3>
+            <p>Print the bottom most nodes of a Binary tree</p>
             <p><a href="#">Read Article</a></p>
             </div>
         </div>
         <div class="col-12 col-md-8 m-auto col-lg-4 pt-5 pt-lg-0">
             <div class="fdb-box">
-            <h3>Size of a tree</h3>
-            <p>Count the number of nodes in a traversal.</p>
+            <h3>Print all Root to Leaf Paths</h3>
+            <p>Print all possible paths starting from root nodeending at the bottommost node of a traversal.</p>
             <p><a href="#">Read Article</a></p>
             </div>
         </div>
         <div class="col-12 col-md-8 m-auto col-lg-4 pt-5 pt-lg-0">
             <div class="fdb-box">
-            <h3>Density of a tree in one traversal</h3>
-            <p>Solve the posted question in one traversal.</p>
+            <h3>Size of a Binary Tree</h3>
+            <p>No. of Nodes in a binary tree.</p>
             <p><a href="#">Read Article</a></p>
             </div>
         </div>
