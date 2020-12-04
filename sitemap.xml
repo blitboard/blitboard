@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://blitboard.github.io/</loc>
+  <lastmod>2020-12-04T08:54:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/subdet</loc>
+  <lastmod>2020-12-04T08:54:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/privacypolicy</loc>
+  <lastmod>2020-12-04T08:54:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/faq</loc>
+  <lastmod>2020-12-04T08:54:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/contact</loc>
+  <lastmod>2020-12-04T08:54:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/structure_of_a_binary_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/traversal_in_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/size_of_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/height_of_a_binary_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/diameter_of_a_binary_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/leaves_of_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/preorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/inorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/postorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/level_of_a_node</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/density_of_a_binary_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/incomplete_nodes_in_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/nodes_with_no_sibling</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/cousins_of_a_node</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/replace_nodes_of_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/nth_node_of_inorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/tree_from_a_linked_list</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/flip_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/iterative_preorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/iterative_inorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/iterative_postorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/level_order_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/reverse_level_order_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/spiral_level_order_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/inward_stepped_level_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/lvl_order_with_dirn_change</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/reverse_tree_path_until_given_node</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/reverse_alternate_levels</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/depth_from_preorder</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/no_of_trees_from_inorder</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/no_of_trees_from_preorder</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/no_of_trees_from_postorder</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/morris_preorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/morris_inorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/morris_postorder_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/diagonal_tree_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/iterative_diagonal_traversal</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/covered_nodes_of_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/forest/uncovered_nodes_of_a_tree</loc>
+  <lastmod>2020-12-03T10:41:04+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/traversal_in_a_list</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/appending_a_node</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/prepending_a_node</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/deleting_at_a_position</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/deleting_a_value</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/length_of_a_linked_list</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/center_node</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/index_of_a_node</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/remove_duplicates_of_sorted</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/recursive_search</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/length_of_a_list_recursive</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/swap_pairs</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/move_last_node</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/delete_alternate_nodes</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/center_node_in_one_trav</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/remove_duplicates_from_unsorted</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/swap_nodes_without_dataswap</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/seperate_even_and_odd</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/merge_two_sorted_lists</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/reverse_of_linked_list</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/add_two_numbers</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/pairwise_swap_with_pointer</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/reverse_a_part</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/remove_duplicates_using_hashing</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/intersecting_linked_list</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/recursively_reverse_a_linked_list</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/tail_recursive_reversal</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://blitboard.github.io/cuboid/two_pointer_reversal</loc>
+  <lastmod>2020-12-04T08:55:40+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
