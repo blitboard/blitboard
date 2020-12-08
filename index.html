@@ -32,14 +32,14 @@
         <a class="navbar-brand" href="https://blitboard.github.io/">
         Blitboard
         </a>
-        <button class="navbar-toggler khulta" data-toggle="collapse" data-target="#navbarNav"><!--i class="fa fa-ellipsis-v" aria-hidden="true"></i--></button>
+        <button class="navbar-toggler khulta" data-toggle="collapse" data-target="#navbarNav"><i class="fa fa-ellipsis-v" aria-hidden="true"></i></button>
         <div class="collapse navbar-collapse" id="navbarNav">
         <ul class="navbar-nav ml-auto">
             <li class="nav-item">
             <a class="nav-link" href="#"></a>
             </li>
             <li class="nav-item">
-            <a class="nav-link" href="#"></a>
+            <input id="searchbar" onkeyup="searcher()" type="text" name="search" placeholder="Search topics..." autocomplete="off" spellcheck="false">
             </li>
         </ul>
         </div>
@@ -54,6 +54,23 @@
         <a href="">SubmitQuestions</a>
         <a href="">SeeFAQ</a>
         <a href="">WorkWithUs</a>
+    </div>
+
+    <div class="animale">
+        <ul id='list' style="list-style-type:none; display: none;"> 
+            <li class="question"><a href="#">Singly Linked Lists</a></li>
+            <li class="question"><a href="#">Binary Trees</a></li>
+            <li class="question"><a href="#">Doubly Linked List</a></li>
+            <li class="question"><a href="#">Binary Search Trees</a></li>
+            <li class="question"><a href="#">Stack</a></li>
+            <li class="question"><a href="#">Queue</a></li>
+            <li class="question"><a href="#">Graph</a></li>
+            <li class="question"><a href="#">Heap</a></li>
+            <li class="question"><a href="#">Array</a></li>
+            <li class="question"><a href="#">Circularly Linked List</a></li>
+            <li class="question"><a href="#">Hashing</a></li>
+            <li class="question"><a href="#">Matrix</a></li>
+        </ul> 
     </div>
 
     <section class="fdb-block">
@@ -85,7 +102,7 @@
         </div>
     </div>
     </section>
-
+    
     <br><br>
     
     <section>
@@ -237,6 +254,24 @@
     function closeNav() {
         document.getElementById("mySidenav").style.width = "0";
     }
+
+    function searcher() { 
+        let input = document.getElementById('searchbar').value
+        input=input.toLowerCase(); 
+        let x = document.getElementsByClassName('question'); 
+        
+        for (i = 0; i < x.length; i++) {  
+            if (!x[i].innerHTML.toLowerCase().includes(input)) { 
+                document.getElementById('list').style.display="block"
+                x[i].style.display="none"; 
+            } 
+            else { 
+                document.getElementById('list').style.display="none"
+                x[i].style.display="list-item";                  
+            } 
+        } 
+    }
+    
     </script>
 
 </body>
