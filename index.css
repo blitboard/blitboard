@@ -15,7 +15,6 @@ body{
 
 .topbar{
     background-color: rgba(0, 0, 0, 0.3);
-    position: fixed;
     z-index: 10;
     backdrop-filter: saturate(100%) blur(2px);
 }
@@ -59,7 +58,7 @@ body{
 }
   
 .sidenav .closebtn{
-    position: absolute;
+
     top: 0;
     right: 25px;
     font-size: 36px;
