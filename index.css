@@ -109,7 +109,6 @@ body{
     line-height: 30px;
     background-color: rgba(0, 0, 0, 0.3);
     backdrop-filter: saturate(0%) blur(10px);
-    padding-left: 10px;
 }
 @media(max-width: 500px){
     .animale{
