@@ -85,7 +85,6 @@ body{
 
 #searchbar{
     background-color: rgba(255, 255, 255, 0.5);
-    width: 300px;
     border-radius: 14px;
     border: 0px;
     padding-left: 35px;
@@ -103,16 +102,25 @@ body{
 .animale{
     z-index: 10;
     position: fixed;
-    width: 300px;
-    right: 150px;
+    width: 400px;
+    right: 0;
     top: 56px;
     background-color: #fff;
+    line-height: 30px;
+    background-color: rgba(0, 0, 0, 0.3);
+    backdrop-filter: saturate(0%) blur(10px);
 }
 @media(max-width: 500px){
     .animale{
         top: 112px;
-        width: 330px;
     }
+}
+.choicer{
+    color: white;
+}
+.choicer:hover{
+    color: whitesmoke;
+    text-decoration: none;
 }
 
 
