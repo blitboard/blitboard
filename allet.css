@@ -22,6 +22,12 @@ body{
     z-index: 100;
 }
 
+.extrere{
+    background-color: rgba(0, 0, 100, 0);
+    position: sticky;
+    z-index: 100;
+}
+
 .khulta{
     border: 0px !important;
     outline: none !important;
